@@ -3,7 +3,7 @@ email: estherfang09@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   My struggle in life
 permalink: ':title/'
-baseurl: "/esther-blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://esther09.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
